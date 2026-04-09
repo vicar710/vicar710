@@ -20,7 +20,7 @@
 
 ## 🌟 Featured Projects  
 
-### 🔹 StockVision *(Flagship)*  
+### 🔹 StockVision 
 🚀 AI-powered stock intelligence system  
 
 - Hybrid model (**ARIMA + LSTM + Sentiment Analysis**)  
@@ -35,7 +35,7 @@
 
 ---
 
-### 🔹 Resume Enhancer AI *(Flagship)*  
+### 🔹 Resume Enhancer AI  
 📄 Smart resume optimization system  
 
 - NLP-based resume parsing  

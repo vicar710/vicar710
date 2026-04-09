@@ -1,4 +1,4 @@
-# 🚀 Ut Sav  
+# 🚀 Utsav  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;GenAI+Developer;Data+Scientist;Building+LLM+%26+RAG+Systems" />

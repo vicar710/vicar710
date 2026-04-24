@@ -87,13 +87,15 @@
   <a href="https://github.com/vicar710">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
+
   <a href="https://www.linkedin.com/in/utsav13/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
   </a>
-   <a href="utsav13710@gmail.com">
+
+  <a href="mailto:utsav13710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
 ---
 
 ## ⚡ Philosophy  

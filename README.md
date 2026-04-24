@@ -68,20 +68,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,tensorflow,sklearn,flask,mysql,git,firebase" />
 </p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vicar710&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=utsav13710&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicar710&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 🧠 Currently Exploring  
@@ -101,11 +87,10 @@
   <a href="https://github.com/vicar710">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
-  <a href="YOUR_LINKEDIN_HERE">
+  <a href="https://www.linkedin.com/in/utsav13/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="YOUR_PORTFOLIO_HERE">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome">
+   <a href="utsav13710@gmail.com">
   </a>
 </p>
 
